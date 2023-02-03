@@ -85,7 +85,7 @@ article {
     top: 480px; left: 370px;
 }
 
-.a {
+li > ol {
     list-style-type:lower-latin;
 }
 
