@@ -1,0 +1,100 @@
+body {
+    background-image: url(../assets/red-and-black-brush-stroke-banner-background-perfect-for-canva.jpg);
+    background-position: center;
+    color: white;
+    font-family: cursive;
+}
+header {
+    background-image: url(../assets/istockphoto-488245074-170667a.jpg);
+    height: 400px;
+    width: 100%;
+    margin-top: 5px;
+    background-position:center;
+    background-size: cover;
+    border: 1px solid red;
+    border-radius: 4px;
+}
+
+nav {
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+    padding: 5px 0px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 4px;   
+}
+
+a {
+    padding: 10px;
+    color: white;
+}
+  
+h3 {
+    font-size: 25px;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    margin-top: 5px;
+    padding: 1px 0px;
+    border-radius: 4px;
+    width: 100%;
+}
+
+header h1{
+    color: white;
+    text-align:left;
+    font-size: 25px;
+    padding: 0% 2%;
+}
+
+#logo{
+    width: 180px;
+    position: absolute;
+    top: 470px; left: 1100px;
+}
+
+.container-flex {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.container-foto1, 
+.container-foto2,
+.container-foto3 {
+    padding: 10px 0px;
+}
+
+img {
+    width: 240px;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+article {
+    position: absolute;
+    width: 700px;
+    top: 480px; left: 370px;
+}
+
+.a {
+    list-style-type:lower-latin;
+}
+
+ol ul {
+    padding: 0% 4%;
+}
+
+td {
+    color: white;
+    padding: 5px 35px;
+    border: 1px solid white;
+}
